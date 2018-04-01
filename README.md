@@ -1,2 +1,3 @@
 # captainslog
-Logging package for Go
+
+Star Trek inspired logging package for Go.
