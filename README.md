@@ -8,3 +8,5 @@ Speak log entries in the style of Captain Picard.
 
 * Mac
 * Daniel voice
+
+![](picard.png)
