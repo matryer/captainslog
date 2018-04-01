@@ -6,7 +6,10 @@ Speak log entries in the style of Captain Picard.
 
 ## Requirements
 
-* Mac
+* A computer
+* `say` command
 * Daniel voice
+* Electricity
+* Ears
 
 ![](picard.png)
